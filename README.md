@@ -1,10 +1,10 @@
 README
+
 Título: Cookenu
+
 Descrição: API desenvolvida em Node e Typescript para criação de website de receitas culinárias.
 
-Endpoints: Cadastro, login, listagem e busca de usuários. 
-
-		       Cadastro e listagem de receitas criadas.		
+Endpoints: Cadastro, login, listagem e busca de usuários. Cadastro e listagem de receitas criadas.		
            
 Rotas:
 
